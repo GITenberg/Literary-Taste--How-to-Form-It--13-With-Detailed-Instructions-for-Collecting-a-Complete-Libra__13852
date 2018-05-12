@@ -1,0 +1,40 @@
+_repo: Literary-Taste--How-to-Form-It--13-With-Detailed-Instructions-for-Collecting-a-Complete-Libra__13852
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: Bennett published this influential book in 1909, with the subtitle "With
+  Detailed Instructions for Collecting a Complete Library of English Literature."
+  Chapters such as "Why a Classic is a Classic," "How to Read a Classic," and "The
+  Question of Style" assist the reader in acquiring a true appreciation of literature.
+  The volume ends with a list of recommended books, which includes books originally
+  written in English from the time of the Venerable Bede through the early twentieth
+  century, as well as an assortment of Latin works.
+gutenberg_issued: '2004-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Best books -- Great Britain'
+- !lcsh 'Book collecting -- Great Britain'
+- !lcsh 'English literature -- Bibliography'
+- !lcc 'PN'
+- !lcsh 'Books and reading -- Great Britain'
+title: "Literary Taste: How to Form It\r\nWith Detailed Instructions for Collecting\
+  \ a Complete Library of English Literature"
+url: http://www.gutenberg.org/ebooks/13852
